@@ -1,0 +1,9 @@
+.cart-items-container {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(min(100%, 250px), 320px));
+  justify-content: center;
+  align-items: stretch;
+  gap: 24px;
+  width: 100%;
+  margin: 0 auto;
+}

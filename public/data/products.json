@@ -1,0 +1,162 @@
+[
+  {
+    "id": 1,
+    "name": "Licuadora Oster",
+    "description": "Licuadora de 600W con vaso de vidrio y 3 velocidades.",
+    "price": 89999,
+    "image": "images/LicuadoraOster.jpg",
+    "category": "Cocina"
+  },
+  {
+    "id": 2,
+    "name": "Cafetera Moulinex",
+    "description": "Cafetera eléctrica de 1.2 litros con sistema antigoteo.",
+    "price": 74999,
+    "image": "images/Cafetera Moulinex.jpg",
+    "category": "Cocina"
+  },
+  {
+    "id": 3,
+    "name": "Microondas Samsung",
+    "description": "Horno microondas de 23 litros con 800W de potencia.",
+    "price": 189999,
+    "image": "images/MicroondasSamsung.jpg",
+    "category": "Cocina"
+  },
+  {
+    "id": 4,
+    "name": "Freidora de Aire Philips",
+    "description": "Freidora de aire de 4.1 litros con control digital.",
+    "price": 219999,
+    "image": "images/Freidora de Aire Philips.jpg",
+    "category": "Cocina"
+  },
+  {
+    "id": 5,
+    "name": "Batidora Atma",
+    "description": "Batidora de mano con 5 velocidades y función turbo.",
+    "price": 59999,
+    "image": "images/Batidora Atma.jpg",
+    "category": "Cocina"
+  },
+  {
+    "id": 6,
+    "name": "Tostadora Philips",
+    "description": "Tostadora de 2 ranuras con 7 niveles de tostado.",
+    "price": 54999,
+    "image": "images/Tostadora Philips.jpg",
+    "category": "Cocina"
+  },
+  {
+    "id": 7,
+    "name": "Pava Eléctrica Peabody",
+    "description": "Pava eléctrica de acero inoxidable con capacidad de 1.7 litros.",
+    "price": 67999,
+    "image": "images/Pava Eléctrica Peabody.jpg",
+    "category": "Cocina"
+  },
+  {
+    "id": 8,
+    "name": "Procesadora Liliana",
+    "description": "Procesadora multifunción de 800W con diferentes accesorios.",
+    "price": 129999,
+    "image": "images/Procesadora Liliana.jpg",
+    "category": "Cocina"
+  },
+  {
+    "id": 9,
+    "name": "Sandwichera Smartlife",
+    "description": "Sandwichera eléctrica con placas antiadherentes.",
+    "price": 49999,
+    "image": "images/Sandwichera Smartlife.jpg",
+    "category": "Cocina"
+  },
+  {
+    "id": 10,
+    "name": "Horno Eléctrico Atma",
+    "description": "Horno eléctrico de 45 litros con selector de temperatura.",
+    "price": 179999,
+    "image": "images/Horno Eléctrico Atma.jpg",
+    "category": "Cocina"
+  },
+  {
+    "id": 11,
+    "name": "Aspiradora Philips",
+    "description": "Aspiradora ciclónica de 1800W con depósito lavable.",
+    "price": 159999,
+    "image": "images/Aspiradora Philips.jpg",
+    "category": "Limpieza"
+  },
+  {
+    "id": 12,
+    "name": "Aspiradora Robot Xiaomi",
+    "description": "Robot aspirador inteligente con navegación automática.",
+    "price": 399999,
+    "image": "images/Aspiradora Robot Xiaomi.jpg",
+    "category": "Limpieza"
+  },
+  {
+    "id": 13,
+    "name": "Lustraspiradora Electrolux",
+    "description": "Lustraspiradora para pisos con sistema de aspirado y pulido.",
+    "price": 229999,
+    "image": "images/Lustraspiradora Electrolux.jpg",
+    "category": "Limpieza"
+  },
+  {
+    "id": 14,
+    "name": "Aspiradora Vertical Atma",
+    "description": "Aspiradora vertical compacta de 1000W.",
+    "price": 99999,
+    "image": "images/Aspiradora Vertical Atma.png",
+    "category": "Limpieza"
+  },
+  {
+    "id": 15,
+    "name": "Limpiavidrios Eléctrico Karcher",
+    "description": "Limpiavidrios inalámbrico para ventanas y superficies lisas.",
+    "price": 139999,
+    "image": "images/Limpiavidrios Eléctrico Karcher.jpg",
+    "category": "Limpieza"
+  },
+  {
+    "id": 16,
+    "name": "Hidrolavadora Karcher",
+    "description": "Hidrolavadora de alta presión para limpieza exterior.",
+    "price": 249999,
+    "image": "images/Hidrolavadora Karcher.jpg",
+    "category": "Limpieza"
+  },
+  {
+    "id": 17,
+    "name": "Vaporizador de Ropa Philips",
+    "description": "Vaporizador portátil para eliminar arrugas de prendas.",
+    "price": 89999,
+    "image": "images/Vaporizador de Ropa Philips.jpg",
+    "category": "Limpieza"
+  },
+  {
+    "id": 18,
+    "name": "Plancha a Vapor Oster",
+    "description": "Plancha a vapor de 1200W con suela antiadherente.",
+    "price": 69999,
+    "image": "images/Plancha a Vapor Oster.jpg",
+    "category": "Limpieza"
+  },
+  {
+    "id": 19,
+    "name": "Secadora de Ropa Candy",
+    "description": "Secadora eléctrica de ropa con diferentes programas.",
+    "price": 499999,
+    "image": "images/Secadora de Ropa Candy.jpg",
+    "category": "Limpieza"
+  },
+  {
+    "id": 20,
+    "name": "Aspiradora de Mano Black+Decker",
+    "description": "Aspiradora inalámbrica compacta para pequeñas superficies.",
+    "price": 84999,
+    "image": "images/Aspiradora de Mano Black+Decker.jpg",
+    "category": "Limpieza"
+  }
+]

@@ -1,0 +1,26 @@
+.products-container {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(min(100%, 230px), 1fr));
+  align-items: stretch;
+  gap: 24px;
+  padding: 24px 20px 32px;
+}
+
+.products-container > a {
+  display: block;
+  border-radius: 16px;
+  color: inherit;
+  text-decoration: none;
+}
+
+.products-container > a:focus-visible {
+  outline: 3px solid #6366f1;
+  outline-offset: 4px;
+}
+
+@media (max-width: 480px) {
+  .products-container {
+    gap: 16px;
+    padding: 16px 14px 24px;
+  }
+}
